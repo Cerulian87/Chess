@@ -19,7 +19,7 @@ class Chess {
 
 		this.data = {
 			players: [], // Empty array to store players
-			// matchHistory: [], // Empty array to store match history - NOTE* Still needs implemented.
+			matchHistory: [], // Empty array to store match history -
 			board: null, // Empty board
 		};
 	}
