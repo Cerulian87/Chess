@@ -1,10 +1,8 @@
 Add a login?
 	- Add the ability to type in a name for player 1 and player 2
+	- Either add a new html page or some CSS to hide once game is initialized
 
 Implement socket.io
 	- Create a server to allow two parties to connect online and play
-
-Figure out the json stuff
-	- Think of some way to incorporate the game history
 
 Redo all comments
